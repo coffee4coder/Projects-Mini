@@ -1,10 +1,10 @@
-# __Calender System__
+# __Calendar System__
 
 <br>
 
 ## __Description__
 
-This C program displays a calendar for a specified year. It takes the input of a year from the user and generates a monthly calendar for that year, indicating the correct day of the week each month starts on. It also adjusts for leap years, displaying February with 29 days when appropriate.
+This C program displays a calendar for a specified year. It takes the input of a year from the user and generates a monthly calendar for that year, indicating the correct day of the week each month starts. It also adjusts for leap years, displaying February with 29 days when appropriate.
 
 <br>
 
@@ -14,7 +14,7 @@ This C program displays a calendar for a specified year. It takes the input of a
 
 * Automatically adjusts for leap years, adding 29 days to February when applicable.
 
-* Clearly labels each month and displays days in a formatted grid, with each week beginning on Sunday.
+* Clearly labels each month and displays days in a formatted grid, each week beginning on Sunday.
 
 <br>
 
