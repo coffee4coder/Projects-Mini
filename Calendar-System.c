@@ -47,5 +47,3 @@ int main(){
     
     return 0;
 }
-
-//..***All Rights Are Reserved By The Author***..
