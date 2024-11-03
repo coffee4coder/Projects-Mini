@@ -1,7 +1,7 @@
 #include<stdio.h>
 #define CYCLE 60
 #include<conio.h>
-#include<unistd.h>
+#include<unistd.h> // For sleep functions in Unix
 
 // Cross-platform screen clearing
 void clrscr() {
@@ -42,6 +42,7 @@ int main(){
         }
     }
     
+    // End message
     printf("\n\n\033[1;31mTime's up!\033[0m\n\n");
     return 0;
 }
