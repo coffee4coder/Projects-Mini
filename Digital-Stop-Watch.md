@@ -43,7 +43,7 @@ gcc stopwatch.c -o stopwatch
 
 3. Enter the target time in hours, minutes, and seconds when prompted (e.g., 0 1 30 for 1 minute and 30 seconds).
 
-4. The timer will count up until it reaches the specified time, then display "Time's up!"
+4. The timer will count until it reaches the specified time, then display "Time's up!"
 
 
 <br>
@@ -62,7 +62,7 @@ gcc stopwatch.c -o stopwatch
 
 ``` md
 Enter Hour-Minute-Second: 0 0 10
-******** STOP WATCH ********
+******** STOPWATCH ********
 
          00:00:00
 
